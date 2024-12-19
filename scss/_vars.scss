@@ -1,0 +1,15 @@
+
+$title:#363838;
+
+
+%title-font{
+    font-family: "Montserrat", serif;
+    font-weight: 700;
+}
+
+@media(max-width: 540px){
+    %title-font{
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
